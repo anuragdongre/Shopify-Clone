@@ -1,0 +1,6 @@
+## TAILWIND PROJECT ( SHOPIFY CLONE ) 
+![IMAGE](./SHOPIFY.png)
+
+
+
+  
